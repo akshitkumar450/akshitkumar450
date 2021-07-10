@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshit Kumar
 - 👀 I’m a Frontend Web development
 - 🌱 I’m currently learning React 
-- 📫 How to reach me : [Gmail] akshitkumar450@gmail.com
+- 📫 How to reach me : [Gmail](akshitkumar450@gmail.com)
 
 ### Technologies I use:
 
